@@ -5,7 +5,8 @@
     <h1 align="center">Yii2 Swagger Extension</h1>
     <br>
 </p>
-This is fork from lichunqiang/yii2-swagger with swagger-ui 3.4.5 support.
+This is fork from lichunqiang/yii2-swagger with swagger-ui 3.4.5 support. 
+
 [swagger-php](https://github.com/zircote/swagger-php) intergation with yii2.
 
 Integration [swagger-ui](https://github.com/swagger-api/swagger-ui) with [swagger-php](https://github.com/zircote/swagger-php).
