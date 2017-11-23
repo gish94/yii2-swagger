@@ -5,13 +5,8 @@
     <h1 align="center">Yii2 Swagger Extension</h1>
     <br>
 </p>
-
-[![version](https://img.shields.io/packagist/v/light/yii2-swagger.svg?style=flat-square)](https://packagist.org/packages/light/yii2-swagger)
-[![Download](https://img.shields.io/packagist/dt/light/yii2-swagger.svg?style=flat-square)](https://packagist.org/packages/light/yii2-swagger)
-[![Issues](https://img.shields.io/github/issues/lichunqiang/yii2-swagger.svg?style=flat-square)](https://github.com/lichunqiang/yii2-swagger/issues)
-
+This is fork from lichunqiang/yii2-swagger with swagger-ui 3.4.5 support.
 [swagger-php](https://github.com/zircote/swagger-php) intergation with yii2.
-
 
 Integration [swagger-ui](https://github.com/swagger-api/swagger-ui) with [swagger-php](https://github.com/zircote/swagger-php).
 
@@ -93,11 +88,6 @@ Access clear cache url `YOUR_API_URL?clear-cache` or `YOUR_API_URL?api_key=YOUR_
 Example: `curl 'http://localhost/v1/swagger/api?clear-cache'`
 
 you will see: `Succeed clear swagger api cache.`
-
-
-Finally
-----
-__If there also some confused, you can refer the [Demo](https://github.com/lichunqiang/yii2-swagger-demo).__
 
 
 License
